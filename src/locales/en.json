@@ -1,272 +1,274 @@
 {
     "nav": {
-        "programs": "Programs",
-        "teachers": "Teachers",
-        "pricing": "Pricing",
-        "contact": "Contact",
-        "enrollNow": "Enroll Now"
+        "programs": "\u0628\u0631\u0646\u0627\u0645\u0647\u200c\u0647\u0627",
+        "teachers": "\u0645\u0639\u0644\u0645\u0627\u0646",
+        "pricing": "\u0642\u06cc\u0645\u062a\u200c\u0647\u0627",
+        "contact": "\u062a\u0645\u0627\u0633",
+        "enrollNow": "\u0647\u0645\u06cc\u0646 \u062d\u0627\u0644\u0627 \u062b\u0628\u062a\u200c\u0646\u0627\u0645 \u06a9\u0646\u06cc\u062f"
     },
     "hero": {
-    "badge": "\u0622\u0645\u0648\u0632\u0634 \u0645\u0642\u062f\u0633",
-    "title1": "\u0642\u0631\u0622\u0646 \u06a9\u0631\u06cc\u0645 \u0631\u0627",
-    "titleHighlight": "\u0628\u06cc\u0627\u0645\u0648\u0632\u06cc\u062f",
-    "title2": "\u0628\u0627 \u0627\u0637\u0645\u06cc\u0646\u0627\u0646\u060c \u0631\u0648\u0634\u0646\u06cc \u0648 \u0627\u0631\u0632\u0634\u200c\u0647\u0627\u06cc \u0627\u0633\u0644\u0627\u0645\u06cc",
-    "description": "\u0633\u0641\u0631 \u0642\u0631\u0622\u0646\u06cc \u062e\u0648\u062f \u0631\u0627 \u0622\u063a\u0627\u0632 \u06a9\u0646\u06cc\u062f \u2014 \u062a\u062c\u0648\u06cc\u062f\u060c \u062d\u0641\u0638\u060c \u0639\u0644\u0648\u0645 \u0627\u0633\u0644\u0627\u0645\u06cc \u0648 \u0632\u0628\u0627\u0646 \u0639\u0631\u0628\u06cc \u0628\u0631\u0627\u06cc \u062a\u0645\u0627\u0645 \u0633\u0646\u06cc\u0646. \u0628\u0647 \u0628\u06cc\u0634 \u0627\u0632 \u06f3,\u06f2\u06f0\u06f0 \u0634\u0627\u06af\u0631\u062f \u0627\u0632 \u06f4\u06f5+ \u06a9\u0634\u0648\u0631 \u0628\u067e\u06cc\u0648\u0646\u062f\u06cc\u062f.",
-    "startTrial": "\u0622\u063a\u0627\u0632 \u0622\u0632\u0645\u0627\u06cc\u0634 \u0631\u0627\u06cc\u06af\u0627\u0646",
-    "viewPrograms": "\u0645\u0634\u0627\u0647\u062f\u0647 \u0628\u0631\u0646\u0627\u0645\u0647\u200c\u0647\u0627",
-    "stats": {
-        "students": "\u0634\u0627\u06af\u0631\u062f\u0627\u0646 \u0641\u0639\u0627\u0644",
-        "countries": "\u06a9\u0634\u0648\u0631\u0647\u0627",
-        "satisfaction": "\u0646\u0631\u062e \u0631\u0636\u0627\u06cc\u062a"
-    }
-},
+        "badge": "\u06cc\u0627\u062f\u06af\u06cc\u0631\u06cc \u0645\u0642\u062f\u0633",
+        "title1": "\u06cc\u0627\u062f \u0628\u06af\u06cc\u0631\u06cc\u062f",
+        "titleHighlight": "\u0642\u0631\u0622\u0646",
+        "title2": "\u06a9\u0631\u06cc\u0645 \u0631\u0627 \u0628\u0627",
+        "title3": "\u0639\u0644\u0645\u0627\u06cc",
+        "title4": "\u0645\u0639\u062a\u0628\u0631",
+        "description": "\u0633\u0641\u0631 \u0642\u0631\u0622\u0646\u06cc \u062e\u0648\u062f \u0631\u0627 \u0622\u063a\u0627\u0632 \u06a9\u0646\u06cc\u062f \u2014 \u062a\u062c\u0648\u06cc\u062f\u060c \u062d\u0641\u0638\u060c \u0645\u0637\u0627\u0644\u0639\u0627\u062a \u0627\u0633\u0644\u0627\u0645\u06cc \u0648 \u0639\u0631\u0628\u06cc \u0628\u0631\u0627\u06cc \u0647\u0645\u0647 \u0633\u0646\u06cc\u0646. \u0628\u0647 \u0628\u06cc\u0634 \u0627\u0632 \u06f3,\u06f2\u06f0\u06f0 \u062f\u0627\u0646\u0634\u200c\u0622\u0645\u0648\u0632 \u0627\u0632 \u0628\u06cc\u0634 \u0627\u0632 \u06f4\u06f5 \u06a9\u0634\u0648\u0631 \u0628\u067e\u06cc\u0648\u0646\u062f\u06cc\u062f.",
+        "startTrial": "\u0622\u0632\u0645\u0627\u06cc\u0634 \u0631\u0627\u06cc\u06af\u0627\u0646 \u0631\u0627 \u0634\u0631\u0648\u0639 \u06a9\u0646\u06cc\u062f",
+        "viewPrograms": "\u0645\u0634\u0627\u0647\u062f\u0647 \u0628\u0631\u0646\u0627\u0645\u0647\u200c\u0647\u0627",
+        "stats": {
+            "students": "\u062f\u0627\u0646\u0634\u200c\u0622\u0645\u0648\u0632\u0627\u0646 \u0641\u0639\u0627\u0644",
+            "countries": "\u06a9\u0634\u0648\u0631\u0647\u0627",
+            "satisfaction": "\u0646\u0631\u062e \u0631\u0636\u0627\u06cc\u062a"
+        }
+    },
     "prayer": {
-        "title": "Daily Prayer Times",
-        "localTime": "Local Time",
-        "note": "* Prayer times are approximate. Please verify with your local Islamic center.",
-        "fajr": "Fajr",
-        "dhuhr": "Dhuhr",
-        "asr": "Asr",
-        "maghrib": "Maghrib",
-        "isha": "Isha"
+        "title": "\u0627\u0648\u0642\u0627\u062a \u0646\u0645\u0627\u0632 \u0631\u0648\u0632\u0627\u0646\u0647",
+        "localTime": "\u0648\u0642\u062a \u0645\u062d\u0644\u06cc",
+        "note": "* \u0627\u0648\u0642\u0627\u062a \u0646\u0645\u0627\u0632 \u062a\u0642\u0631\u06cc\u0628\u06cc \u0627\u0633\u062a. \u0644\u0637\u0641\u0627\u064b \u0628\u0627 \u0645\u0631\u06a9\u0632 \u0627\u0633\u0644\u0627\u0645\u06cc \u0645\u062d\u0644\u06cc \u062e\u0648\u062f \u062a\u0623\u06cc\u06cc\u062f \u06a9\u0646\u06cc\u062f.",
+        "fajr": "\u0641\u062c\u0631",
+        "dhuhr": "\u0638\u0647\u0631",
+        "asr": "\u0639\u0635\u0631",
+        "maghrib": "\u0645\u063a\u0631\u0628",
+        "isha": "\u0639\u0634\u0627\u0621"
     },
     "stats": {
-        "title": "Academy at a Glance",
-        "studentsEnrolled": "Students Enrolled",
-        "countriesServed": "Countries Served",
-        "expertTeachers": "Expert Teachers",
-        "yearsExcellence": "Years of Excellence"
+        "title": "\u0646\u06af\u0627\u0647\u06cc \u0628\u0647 \u0622\u06a9\u0627\u062f\u0645\u06cc",
+        "studentsEnrolled": "\u062f\u0627\u0646\u0634\u200c\u0622\u0645\u0648\u0632\u0627\u0646 \u062b\u0628\u062a\u200c\u0646\u0627\u0645 \u0634\u062f\u0647",
+        "countriesServed": "\u06a9\u0634\u0648\u0631\u0647\u0627\u06cc \u062e\u062f\u0645\u062a\u200c\u0631\u0633\u0627\u0646\u06cc \u0634\u062f\u0647",
+        "expertTeachers": "\u0645\u0639\u0644\u0645\u0627\u0646 \u0645\u062a\u062e\u0635\u0635",
+        "yearsExcellence": "\u0633\u0627\u0644\u200c\u0647\u0627\u06cc \u062a\u0639\u0627\u0644\u06cc"
     },
     "programs": {
-        "badge": "Our Programs",
-        "title1": "Programs &",
-        "titleHighlight": "Services",
-        "description": "Structured learning paths for every stage of your Quranic journey \u2014 from first letters to full memorization.",
-        "featured": "Featured Program",
-        "enrollNow": "Enroll Now",
+        "badge": "\u0628\u0631\u0646\u0627\u0645\u0647\u200c\u0647\u0627\u06cc \u0645\u0627",
+        "title1": "\u0628\u0631\u0646\u0627\u0645\u0647\u200c\u0647\u0627 \u0648",
+        "titleHighlight": "\u062e\u062f\u0645\u0627\u062a",
+        "description": "\u0645\u0633\u06cc\u0631\u0647\u0627\u06cc \u06cc\u0627\u062f\u06af\u06cc\u0631\u06cc \u0633\u0627\u062e\u062a\u0627\u0631\u06cc\u0627\u0641\u062a\u0647 \u0628\u0631\u0627\u06cc \u0647\u0631 \u0645\u0631\u062d\u0644\u0647 \u0627\u0632 \u0633\u0641\u0631 \u0642\u0631\u0622\u0646\u06cc \u0634\u0645\u0627 \u2014 \u0627\u0632 \u0627\u0648\u0644\u06cc\u0646 \u062d\u0631\u0648\u0641 \u062a\u0627 \u062d\u0641\u0638 \u06a9\u0627\u0645\u0644.",
+        "featured": "\u0628\u0631\u0646\u0627\u0645\u0647 \u0648\u06cc\u0698\u0647",
+        "enrollNow": "\u0647\u0645\u06cc\u0646 \u062d\u0627\u0644\u0627 \u062b\u0628\u062a\u200c\u0646\u0627\u0645 \u06a9\u0646\u06cc\u062f",
         "items": {
             "recitation": {
-                "title": "Quran Recitation",
-                "description": "Master the art of beautiful Quran recitation with proper Makhraj and Sifaat. Suitable for complete beginners to advanced reciters seeking to perfect their voice.",
-                "duration": "3\u20136 months",
-                "level": "All Levels",
-                "students": "1,200+ students"
+                "title": "\u062a\u0644\u0627\u0648\u062a \u0642\u0631\u0622\u0646",
+                "description": "\u0647\u0646\u0631 \u062a\u0644\u0627\u0648\u062a \u0632\u06cc\u0628\u0627\u06cc \u0642\u0631\u0622\u0646 \u0631\u0627 \u0628\u0627 \u0645\u062e\u0631\u062c \u0648 \u0635\u0641\u0627\u062a \u0635\u062d\u06cc\u062d \u0628\u06cc\u0627\u0645\u0648\u0632\u06cc\u062f.",
+                "duration": "\u06f3\u2013\u06f6 \u0645\u0627\u0647",
+                "level": "\u0647\u0645\u0647 \u0633\u0637\u0648\u062d",
+                "students": "\u0628\u06cc\u0634 \u0627\u0632 \u06f1,\u06f2\u06f0\u06f0 \u062f\u0627\u0646\u0634\u200c\u0622\u0645\u0648\u0632"
             },
             "tajweed": {
-                "title": "Tajweed Rules",
-                "description": "Learn the precise rules of Tajweed with certified teachers trained at Al-Azhar University.",
-                "students": "890+ students",
-                "duration": "4\u20138 months"
+                "title": "\u0642\u0648\u0627\u0639\u062f \u062a\u062c\u0648\u06cc\u062f",
+                "description": "\u0642\u0648\u0627\u0639\u062f \u062f\u0642\u06cc\u0642 \u062a\u062c\u0648\u06cc\u062f \u0631\u0627 \u0628\u0627 \u0645\u0639\u0644\u0645\u0627\u0646 \u0645\u0639\u062a\u0628\u0631 \u0622\u0645\u0648\u0632\u0634\u200c\u062f\u06cc\u062f\u0647 \u062f\u0631 \u062f\u0627\u0646\u0634\u06af\u0627\u0647 \u0627\u0644\u0627\u0632\u0647\u0631 \u0628\u06cc\u0627\u0645\u0648\u0632\u06cc\u062f.",
+                "students": "\u0628\u06cc\u0634 \u0627\u0632 \u06f8\u06f9\u06f0 \u062f\u0627\u0646\u0634\u200c\u0622\u0645\u0648\u0632",
+                "duration": "\u06f4\u2013\u06f8 \u0645\u0627\u0647"
             },
             "hifz": {
-                "title": "Hifz Program",
-                "description": "Structured Quran memorization program with daily revision, tracking and certified completion.",
-                "students": "420+ students",
-                "duration": "1\u20133 years"
+                "title": "\u0628\u0631\u0646\u0627\u0645\u0647 \u062d\u0641\u0638",
+                "description": "\u0628\u0631\u0646\u0627\u0645\u0647 \u062d\u0641\u0638 \u0642\u0631\u0622\u0646 \u0633\u0627\u062e\u062a\u0627\u0631\u06cc\u0627\u0641\u062a\u0647 \u0628\u0627 \u0645\u0631\u0648\u0631 \u0631\u0648\u0632\u0627\u0646\u0647\u060c \u067e\u06cc\u06af\u06cc\u0631\u06cc \u0648 \u062a\u06a9\u0645\u06cc\u0644 \u0645\u0639\u062a\u0628\u0631.",
+                "students": "\u0628\u06cc\u0634 \u0627\u0632 \u06f4\u06f2\u06f0 \u062f\u0627\u0646\u0634\u200c\u0622\u0645\u0648\u0632",
+                "duration": "\u06f1\u2013\u06f3 \u0633\u0627\u0644"
             },
             "islamic": {
-                "title": "Islamic Studies",
-                "description": "Comprehensive Islamic curriculum covering Fiqh, Aqeedah, Hadith and Seerah for all ages.",
-                "students": "560+",
-                "studentsLabel": "students"
+                "title": "\u0645\u0637\u0627\u0644\u0639\u0627\u062a \u0627\u0633\u0644\u0627\u0645\u06cc",
+                "description": "\u0628\u0631\u0646\u0627\u0645\u0647 \u062f\u0631\u0633\u06cc \u062c\u0627\u0645\u0639 \u0627\u0633\u0644\u0627\u0645\u06cc \u0634\u0627\u0645\u0644 \u0641\u0642\u0647\u060c \u0639\u0642\u06cc\u062f\u0647\u060c \u062d\u062f\u06cc\u062b \u0648 \u0633\u06cc\u0631\u0647 \u0628\u0631\u0627\u06cc \u0647\u0645\u0647 \u0633\u0646\u06cc\u0646.",
+                "students": "\u06f5\u06f6\u06f0+",
+                "studentsLabel": "\u062f\u0627\u0646\u0634\u200c\u0622\u0645\u0648\u0632"
             },
             "arabic": {
-                "title": "Arabic Language",
-                "description": "Learn Modern Standard Arabic and Quranic Arabic from native-speaking qualified instructors.",
-                "students": "340+",
-                "studentsLabel": "students"
+                "title": "\u0632\u0628\u0627\u0646 \u0639\u0631\u0628\u06cc",
+                "description": "\u0639\u0631\u0628\u06cc \u0645\u0639\u06cc\u0627\u0631\u06cc \u0645\u062f\u0631\u0646 \u0648 \u0639\u0631\u0628\u06cc \u0642\u0631\u0622\u0646\u06cc \u0631\u0627 \u0627\u0632 \u0645\u062f\u0631\u0633\u0627\u0646 \u0648\u0627\u062c\u062f \u0634\u0631\u0627\u06cc\u0637 \u0628\u0648\u0645\u06cc \u0628\u06cc\u0627\u0645\u0648\u0632\u06cc\u062f.",
+                "students": "\u06f3\u06f4\u06f0+",
+                "studentsLabel": "\u062f\u0627\u0646\u0634\u200c\u0622\u0645\u0648\u0632"
             }
         }
     },
     "teachers": {
-        "badge": "Our Scholars",
-        "title1": "Meet Your",
-        "titleHighlight": "Teachers",
-        "description": "Every teacher at Weldan Quran Academy holds an Ijazah (chain of narration) and is certified by a recognized Islamic institution.",
-        "studentsTaught": "students taught",
-        "experience": "experience",
-        "bookClass": "Book a Class",
-        "viewAll": "View All Teachers",
-        "note": "Our academy has 28 qualified teachers ready to guide your journey.",
+        "badge": "\u0639\u0644\u0645\u0627\u06cc \u0645\u0627",
+        "title1": "\u0628\u0627 \u0645\u0639\u0644\u0645\u0627\u0646",
+        "titleHighlight": "\u062e\u0648\u062f \u0622\u0634\u0646\u0627 \u0634\u0648\u06cc\u062f",
+        "description": "\u0647\u0631 \u0645\u0639\u0644\u0645 \u062f\u0631 \u0622\u06a9\u0627\u062f\u0645\u06cc \u0642\u0631\u0622\u0646 \u0648\u0644\u062f\u0627\u0646 \u062f\u0627\u0631\u0627\u06cc \u0627\u062c\u0627\u0632\u0647 (\u0633\u0644\u0633\u0644\u0647 \u0631\u0648\u0627\u06cc\u062a) \u0627\u0633\u062a \u0648 \u062a\u0648\u0633\u0637 \u06cc\u06a9 \u0645\u0624\u0633\u0633\u0647 \u0627\u0633\u0644\u0627\u0645\u06cc \u0645\u0639\u062a\u0628\u0631 \u062a\u0623\u06cc\u06cc\u062f \u0634\u062f\u0647 \u0627\u0633\u062a.",
+        "studentsTaught": "\u062f\u0627\u0646\u0634\u200c\u0622\u0645\u0648\u0632 \u062a\u062f\u0631\u06cc\u0633 \u0634\u062f\u0647",
+        "experience": "\u062a\u062c\u0631\u0628\u0647",
+        "bookClass": "\u0631\u0632\u0631\u0648 \u06a9\u0644\u0627\u0633",
+        "viewAll": "\u0645\u0634\u0627\u0647\u062f\u0647 \u0647\u0645\u0647 \u0645\u0639\u0644\u0645\u0627\u0646",
+        "note": "\u0622\u06a9\u0627\u062f\u0645\u06cc \u0645\u0627 \u06f2\u06f8 \u0645\u0639\u0644\u0645 \u0648\u0627\u062c\u062f \u0634\u0631\u0627\u06cc\u0637 \u062f\u0627\u0631\u062f \u06a9\u0647 \u0622\u0645\u0627\u062f\u0647 \u0631\u0627\u0647\u0646\u0645\u0627\u06cc\u06cc \u0633\u0641\u0631 \u0634\u0645\u0627 \u0647\u0633\u062a\u0646\u062f.",
         "items": {
             "omar": {
-                "name": "Sheikh Omar Al-Farouqi",
-                "role": "Lead Quran Instructor",
-                "specialty": "Tajweed & Hifz",
-                "university": "Al-Azhar University, Cairo",
-                "students": "400+",
-                "years": "15 years"
+                "name": "\u0634\u06cc\u062e \u0639\u0645\u0631 \u0627\u0644\u0641\u0627\u0631\u0648\u0642\u06cc",
+                "role": "\u0645\u062f\u0631\u0633 \u0627\u0631\u0634\u062f \u0642\u0631\u0622\u0646",
+                "specialty": "\u062a\u062c\u0648\u06cc\u062f \u0648 \u062d\u0641\u0638",
+                "university": "\u062f\u0627\u0646\u0634\u06af\u0627\u0647 \u0627\u0644\u0627\u0632\u0647\u0631\u060c \u0642\u0627\u0647\u0631\u0647",
+                "students": "\u0628\u06cc\u0634 \u0627\u0632 \u06f4\u06f0\u06f0",
+                "years": "\u06f1\u06f5 \u0633\u0627\u0644"
             },
             "fatima": {
-                "name": "Ustazah Fatima Al-Rashidi",
-                "role": "Senior Quran Teacher",
-                "specialty": "Female Students & Children",
-                "university": "Islamic University of Madinah",
-                "students": "350+",
-                "years": "12 years"
+                "name": "\u0627\u0633\u062a\u0627\u062f\u0647 \u0641\u0627\u0637\u0645\u0647 \u0627\u0644\u0631\u0627\u0634\u062f\u06cc",
+                "role": "\u0645\u0639\u0644\u0645 \u0627\u0631\u0634\u062f \u0642\u0631\u0622\u0646",
+                "specialty": "\u062f\u0627\u0646\u0634\u200c\u0622\u0645\u0648\u0632\u0627\u0646 \u0632\u0646 \u0648 \u06a9\u0648\u062f\u06a9\u0627\u0646",
+                "university": "\u062f\u0627\u0646\u0634\u06af\u0627\u0647 \u0627\u0633\u0644\u0627\u0645\u06cc \u0645\u062f\u06cc\u0646\u0647",
+                "students": "\u0628\u06cc\u0634 \u0627\u0632 \u06f3\u06f5\u06f0",
+                "years": "\u06f1\u06f2 \u0633\u0627\u0644"
             },
             "bilal": {
-                "name": "Qari Bilal Hassan",
-                "role": "Tajweed Specialist",
-                "specialty": "Advanced Tajweed & Qirat",
-                "university": "Darul Uloom Karachi",
-                "students": "280+",
-                "years": "10 years"
+                "name": "\u0642\u0627\u0631\u06cc \u0628\u0644\u0627\u0644 \u062d\u0633\u0646",
+                "role": "\u0645\u062a\u062e\u0635\u0635 \u062a\u062c\u0648\u06cc\u062f",
+                "specialty": "\u062a\u062c\u0648\u06cc\u062f \u067e\u06cc\u0634\u0631\u0641\u062a\u0647 \u0648 \u0642\u0631\u0627\u0626\u062a",
+                "university": "\u062f\u0627\u0631\u0627\u0644\u0639\u0644\u0648\u0645 \u06a9\u0631\u0627\u0686\u06cc",
+                "students": "\u0628\u06cc\u0634 \u0627\u0632 \u06f2\u06f8\u06f0",
+                "years": "\u06f1\u06f0 \u0633\u0627\u0644"
             },
             "amina": {
-                "name": "Dr. Amina Yusuf",
-                "role": "Islamic Studies Director",
-                "specialty": "Fiqh, Aqeedah & Seerah",
-                "university": "PhD Islamic Studies, IIUM",
-                "students": "520+",
-                "years": "18 years"
+                "name": "\u062f\u06a9\u062a\u0631 \u0627\u0645\u06cc\u0646\u0647 \u06cc\u0648\u0633\u0641",
+                "role": "\u0645\u062f\u06cc\u0631 \u0645\u0637\u0627\u0644\u0639\u0627\u062a \u0627\u0633\u0644\u0627\u0645\u06cc",
+                "specialty": "\u0641\u0642\u0647\u060c \u0639\u0642\u06cc\u062f\u0647 \u0648 \u0633\u06cc\u0631\u0647",
+                "university": "\u062f\u06a9\u062a\u0631\u0627\u06cc \u0645\u0637\u0627\u0644\u0639\u0627\u062a \u0627\u0633\u0644\u0627\u0645\u06cc\u060c IIUM",
+                "students": "\u0628\u06cc\u0634 \u0627\u0632 \u06f5\u06f2\u06f0",
+                "years": "\u06f1\u06f8 \u0633\u0627\u0644"
             }
         }
     },
     "testimonials": {
-        "badge": "Student Stories",
-        "title1": "What Our",
-        "titleHighlight": "Students Say",
+        "badge": "\u062f\u0627\u0633\u062a\u0627\u0646\u200c\u0647\u0627\u06cc \u062f\u0627\u0646\u0634\u200c\u0622\u0645\u0648\u0632\u0627\u0646",
+        "title1": "\u062f\u0627\u0646\u0634\u200c\u0622\u0645\u0648\u0632\u0627\u0646 \u0645\u0627",
+        "titleHighlight": "\u0686\u0647 \u0645\u06cc\u200c\u06af\u0648\u06cc\u0646\u062f",
         "items": {
             "aisha": {
-                "name": "Aisha Thompson",
-                "location": "Parent \u00b7 London, UK",
-                "program": "Quran Recitation",
-                "duration": "6 months",
-                "quote": "My daughter started with zero knowledge of Arabic and within 6 months she was reciting Surah Al-Baqarah with perfect Tajweed. Sheikh Omar is incredibly patient and knowledgeable."
+                "name": "\u0639\u0627\u06cc\u0634\u0647 \u062a\u0627\u0645\u067e\u0633\u0648\u0646",
+                "location": "\u0648\u0627\u0644\u062f\u06cc\u0646 \u00b7 \u0644\u0646\u062f\u0646\u060c \u0627\u0646\u06af\u0644\u0633\u062a\u0627\u0646",
+                "program": "\u062a\u0644\u0627\u0648\u062a \u0642\u0631\u0622\u0646",
+                "duration": "\u06f6 \u0645\u0627\u0647",
+                "quote": "\u062f\u062e\u062a\u0631 \u0645\u0646 \u0628\u062f\u0648\u0646 \u0647\u06cc\u0686 \u062f\u0627\u0646\u0634\u06cc \u0627\u0632 \u0639\u0631\u0628\u06cc \u0634\u0631\u0648\u0639 \u06a9\u0631\u062f \u0648 \u062f\u0631 \u0639\u0631\u0636 \u06f6 \u0645\u0627\u0647 \u0633\u0648\u0631\u0647 \u0627\u0644\u0628\u0642\u0631\u0647 \u0631\u0627 \u0628\u0627 \u062a\u062c\u0648\u06cc\u062f \u06a9\u0627\u0645\u0644 \u062a\u0644\u0627\u0648\u062a \u0645\u06cc\u200c\u06a9\u0631\u062f. \u0634\u06cc\u062e \u0639\u0645\u0631 \u0628\u0633\u06cc\u0627\u0631 \u0635\u0628\u0648\u0631 \u0648 \u062f\u0627\u0646\u0634\u0645\u0646\u062f \u0627\u0633\u062a."
             },
             "ahmad": {
-                "name": "Ahmad Karimi",
-                "location": "Student \u00b7 Toronto, Canada",
-                "program": "Hifz Program",
-                "quote": "The Hifz program at Weldan is exceptional. The structured approach and daily tracking helped me memorize 10 Juz in just one year. Highly recommended for serious students."
+                "name": "\u0627\u062d\u0645\u062f \u06a9\u0631\u06cc\u0645\u06cc",
+                "location": "\u062f\u0627\u0646\u0634\u200c\u0622\u0645\u0648\u0632 \u00b7 \u062a\u0648\u0631\u0646\u062a\u0648\u060c \u06a9\u0627\u0646\u0627\u062f\u0627",
+                "program": "\u0628\u0631\u0646\u0627\u0645\u0647 \u062d\u0641\u0638",
+                "quote": "\u0628\u0631\u0646\u0627\u0645\u0647 \u062d\u0641\u0638 \u062f\u0631 \u0648\u0644\u062f\u0627\u0646 \u0627\u0633\u062a\u062b\u0646\u0627\u06cc\u06cc \u0627\u0633\u062a. \u0631\u0648\u06cc\u06a9\u0631\u062f \u0633\u0627\u062e\u062a\u0627\u0631\u06cc\u0627\u0641\u062a\u0647 \u0648 \u067e\u06cc\u06af\u06cc\u0631\u06cc \u0631\u0648\u0632\u0627\u0646\u0647 \u0628\u0647 \u0645\u0646 \u06a9\u0645\u06a9 \u06a9\u0631\u062f \u062a\u0627 \u062f\u0631 \u06cc\u06a9 \u0633\u0627\u0644 \u06f1\u06f0 \u062c\u0632\u0621 \u062d\u0641\u0638 \u06a9\u0646\u0645."
             },
             "maria": {
-                "name": "Maria Santos",
-                "location": "Student \u00b7 Sydney, Australia",
-                "program": "Tajweed Rules",
-                "quote": "Ustazah Fatima's teaching style is wonderful. She made Tajweed easy to understand and her patience with beginners is remarkable. My recitation has improved tremendously."
+                "name": "\u0645\u0627\u0631\u06cc\u0627 \u0633\u0627\u0646\u062a\u0648\u0633",
+                "location": "\u062f\u0627\u0646\u0634\u200c\u0622\u0645\u0648\u0632 \u00b7 \u0633\u06cc\u062f\u0646\u06cc\u060c \u0627\u0633\u062a\u0631\u0627\u0644\u06cc\u0627",
+                "program": "\u0642\u0648\u0627\u0639\u062f \u062a\u062c\u0648\u06cc\u062f",
+                "quote": "\u0633\u0628\u06a9 \u062a\u062f\u0631\u06cc\u0633 \u0627\u0633\u062a\u0627\u062f\u0647 \u0641\u0627\u0637\u0645\u0647 \u0641\u0648\u0642\u200c\u0627\u0644\u0639\u0627\u062f\u0647 \u0627\u0633\u062a. \u0627\u0648 \u062a\u062c\u0648\u06cc\u062f \u0631\u0627 \u0622\u0633\u0627\u0646\u200c\u0641\u0647\u0645 \u06a9\u0631\u062f \u0648 \u0635\u0628\u0631 \u0627\u0648 \u0628\u0627 \u0645\u0628\u062a\u062f\u06cc\u0627\u0646 \u0642\u0627\u0628\u0644 \u062a\u0648\u062c\u0647 \u0627\u0633\u062a."
             },
             "yusuf": {
-                "name": "Yusuf Al-Amin",
-                "location": "Student \u00b7 Dubai, UAE",
-                "program": "Islamic Studies",
-                "quote": "Dr. Amina's Islamic Studies course is comprehensive and engaging. The curriculum covers everything from Fiqh to Seerah in a modern, accessible way. Truly transformative."
+                "name": "\u06cc\u0648\u0633\u0641 \u0627\u0644\u0627\u0645\u06cc\u0646",
+                "location": "\u062f\u0627\u0646\u0634\u200c\u0622\u0645\u0648\u0632 \u00b7 \u062f\u0628\u06cc\u060c \u0627\u0645\u0627\u0631\u0627\u062a \u0645\u062a\u062d\u062f\u0647 \u0639\u0631\u0628\u06cc",
+                "program": "\u0645\u0637\u0627\u0644\u0639\u0627\u062a \u0627\u0633\u0644\u0627\u0645\u06cc",
+                "quote": "\u062f\u0648\u0631\u0647 \u0645\u0637\u0627\u0644\u0639\u0627\u062a \u0627\u0633\u0644\u0627\u0645\u06cc \u062f\u06a9\u062a\u0631 \u0627\u0645\u06cc\u0646\u0647 \u062c\u0627\u0645\u0639 \u0648 \u062c\u0630\u0627\u0628 \u0627\u0633\u062a. \u0628\u0631\u0646\u0627\u0645\u0647 \u062f\u0631\u0633\u06cc \u0647\u0645\u0647 \u0686\u06cc\u0632 \u0627\u0632 \u0641\u0642\u0647 \u062a\u0627 \u0633\u06cc\u0631\u0647 \u0631\u0627 \u0628\u0647 \u0634\u06cc\u0648\u0647\u200c\u0627\u06cc \u0645\u062f\u0631\u0646 \u067e\u0648\u0634\u0634 \u0645\u06cc\u200c\u062f\u0647\u062f."
             }
         }
     },
     "pricing": {
-        "badge": "Investment",
-        "title1": "Transparent",
-        "titleHighlight": "Pricing",
-        "description": "No hidden fees. Cancel anytime. 7-day free trial on all plans.",
-        "mostPopular": "Most Popular",
-        "perMonth": "/month",
-        "getStarted": "Get Started",
-        "enrollNow": "Enroll Now",
-        "contactUs": "Contact Us",
+        "badge": "\u0633\u0631\u0645\u0627\u06cc\u0647\u200c\u06af\u0630\u0627\u0631\u06cc",
+        "title1": "\u0642\u06cc\u0645\u062a\u200c\u06af\u0630\u0627\u0631\u06cc",
+        "titleHighlight": "\u0634\u0641\u0627\u0641",
+        "description": "\u0628\u062f\u0648\u0646 \u0647\u0632\u06cc\u0646\u0647\u200c\u0647\u0627\u06cc \u067e\u0646\u0647\u0627\u0646. \u0647\u0631 \u0632\u0645\u0627\u0646 \u0644\u063a\u0648 \u06a9\u0646\u06cc\u062f. \u0622\u0632\u0645\u0627\u06cc\u0634 \u0631\u0627\u06cc\u06af\u0627\u0646 \u06f7 \u0631\u0648\u0632\u0647 \u0628\u0631\u0627\u06cc \u0647\u0645\u0647 \u0637\u0631\u062d\u200c\u0647\u0627.",
+        "mostPopular": "\u0645\u062d\u0628\u0648\u0628\u200c\u062a\u0631\u06cc\u0646",
+        "perMonth": "/\u0645\u0627\u0647",
+        "getStarted": "\u0634\u0631\u0648\u0639 \u06a9\u0646\u06cc\u062f",
+        "enrollNow": "\u0647\u0645\u06cc\u0646 \u062d\u0627\u0644\u0627 \u062b\u0628\u062a\u200c\u0646\u0627\u0645 \u06a9\u0646\u06cc\u062f",
+        "contactUs": "\u0628\u0627 \u0645\u0627 \u062a\u0645\u0627\u0633 \u0628\u06af\u06cc\u0631\u06cc\u062f",
         "guarantees": {
-            "trial": "7-Day Free Trial",
-            "noCard": "No Credit Card Required",
-            "cancel": "Cancel Anytime",
-            "money": "Money-Back Guarantee"
+            "trial": "\u0622\u0632\u0645\u0627\u06cc\u0634 \u0631\u0627\u06cc\u06af\u0627\u0646 \u06f7 \u0631\u0648\u0632\u0647",
+            "noCard": "\u0646\u06cc\u0627\u0632\u06cc \u0628\u0647 \u06a9\u0627\u0631\u062a \u0627\u0639\u062a\u0628\u0627\u0631\u06cc \u0646\u06cc\u0633\u062a",
+            "cancel": "\u0647\u0631 \u0632\u0645\u0627\u0646 \u0644\u063a\u0648 \u06a9\u0646\u06cc\u062f",
+            "money": "\u0636\u0645\u0627\u0646\u062a \u0628\u0627\u0632\u06af\u0634\u062a \u067e\u0648\u0644"
         },
         "plans": {
             "starter": {
-                "tier": "Tier 01",
-                "name": "Starter",
+                "tier": "\u0633\u0637\u062d \u06f0\u06f1",
+                "name": "\u0645\u0628\u062a\u062f\u06cc",
                 "arabicName": "\u0627\u0644\u0645\u0628\u062a\u062f\u0626",
-                "description": "Perfect for individuals beginning their Quranic journey.",
+                "description": "\u0645\u0646\u0627\u0633\u0628 \u0628\u0631\u0627\u06cc \u0627\u0641\u0631\u0627\u062f\u06cc \u06a9\u0647 \u0633\u0641\u0631 \u0642\u0631\u0622\u0646\u06cc \u062e\u0648\u062f \u0631\u0627 \u0622\u063a\u0627\u0632 \u0645\u06cc\u200c\u06a9\u0646\u0646\u062f.",
                 "price": "$29",
                 "features": [
-                    "3 classes per week",
-                    "1-on-1 sessions",
-                    "Quran Recitation program",
-                    "Progress tracking",
-                    "WhatsApp support"
+                    "\u06f3 \u06a9\u0644\u0627\u0633 \u062f\u0631 \u0647\u0641\u062a\u0647",
+                    "\u062c\u0644\u0633\u0627\u062a \u06cc\u06a9\u200c\u0628\u0647\u200c\u06cc\u06a9",
+                    "\u0628\u0631\u0646\u0627\u0645\u0647 \u062a\u0644\u0627\u0648\u062a \u0642\u0631\u0622\u0646",
+                    "\u067e\u06cc\u06af\u06cc\u0631\u06cc \u067e\u06cc\u0634\u0631\u0641\u062a",
+                    "\u067e\u0634\u062a\u06cc\u0628\u0627\u0646\u06cc \u0648\u0627\u062a\u0633\u0627\u067e"
                 ],
                 "notIncluded": [
-                    "Hifz program access",
-                    "Certificate upon completion"
+                    "\u062f\u0633\u062a\u0631\u0633\u06cc \u0628\u0647 \u0628\u0631\u0646\u0627\u0645\u0647 \u062d\u0641\u0638",
+                    "\u06af\u0648\u0627\u0647\u06cc\u0646\u0627\u0645\u0647 \u067e\u0633 \u0627\u0632 \u062a\u06a9\u0645\u06cc\u0644"
                 ]
             },
             "scholar": {
-                "tier": "Tier 02",
-                "name": "Scholar",
+                "tier": "\u0633\u0637\u062d \u06f0\u06f2",
+                "name": "\u0639\u0627\u0644\u0645",
                 "arabicName": "\u0627\u0644\u0639\u0627\u0644\u0645",
-                "description": "Our most popular plan for serious learners and families.",
+                "description": "\u0645\u062d\u0628\u0648\u0628\u200c\u062a\u0631\u06cc\u0646 \u0637\u0631\u062d \u0645\u0627 \u0628\u0631\u0627\u06cc \u06cc\u0627\u062f\u06af\u06cc\u0631\u0646\u062f\u06af\u0627\u0646 \u062c\u062f\u06cc \u0648 \u062e\u0627\u0646\u0648\u0627\u062f\u0647\u200c\u0647\u0627.",
                 "price": "$49",
                 "features": [
-                    "5 classes per week",
-                    "1-on-1 + group sessions",
-                    "All programs access",
-                    "Hifz program included",
-                    "Monthly progress report",
-                    "Certificate upon completion"
+                    "\u06f5 \u06a9\u0644\u0627\u0633 \u062f\u0631 \u0647\u0641\u062a\u0647",
+                    "\u062c\u0644\u0633\u0627\u062a \u06cc\u06a9\u200c\u0628\u0647\u200c\u06cc\u06a9 + \u06af\u0631\u0648\u0647\u06cc",
+                    "\u062f\u0633\u062a\u0631\u0633\u06cc \u0628\u0647 \u0647\u0645\u0647 \u0628\u0631\u0646\u0627\u0645\u0647\u200c\u0647\u0627",
+                    "\u0628\u0631\u0646\u0627\u0645\u0647 \u062d\u0641\u0638 \u0634\u0627\u0645\u0644",
+                    "\u06af\u0632\u0627\u0631\u0634 \u067e\u06cc\u0634\u0631\u0641\u062a \u0645\u0627\u0647\u0627\u0646\u0647",
+                    "\u06af\u0648\u0627\u0647\u06cc\u0646\u0627\u0645\u0647 \u067e\u0633 \u0627\u0632 \u062a\u06a9\u0645\u06cc\u0644"
                 ]
             },
             "family": {
-                "tier": "Tier 03",
-                "name": "Family",
+                "tier": "\u0633\u0637\u062d \u06f0\u06f3",
+                "name": "\u062e\u0627\u0646\u0648\u0627\u062f\u0647",
                 "arabicName": "\u0627\u0644\u0639\u0627\u0626\u0644\u0629",
-                "description": "Unlimited learning for the whole family \u2014 up to 4 members.",
+                "description": "\u06cc\u0627\u062f\u06af\u06cc\u0631\u06cc \u0646\u0627\u0645\u062d\u062f\u0648\u062f \u0628\u0631\u0627\u06cc \u06a9\u0644 \u062e\u0627\u0646\u0648\u0627\u062f\u0647 \u2014 \u062a\u0627 \u06f4 \u0639\u0636\u0648.",
                 "price": "$89",
                 "features": [
-                    "Unlimited classes",
-                    "4 family members",
-                    "All programs access",
-                    "Dedicated family teacher",
-                    "Priority scheduling",
-                    "Quarterly assessment"
+                    "\u06a9\u0644\u0627\u0633\u200c\u0647\u0627\u06cc \u0646\u0627\u0645\u062d\u062f\u0648\u062f",
+                    "\u06f4 \u0639\u0636\u0648 \u062e\u0627\u0646\u0648\u0627\u062f\u0647",
+                    "\u062f\u0633\u062a\u0631\u0633\u06cc \u0628\u0647 \u0647\u0645\u0647 \u0628\u0631\u0646\u0627\u0645\u0647\u200c\u0647\u0627",
+                    "\u0645\u0639\u0644\u0645 \u0627\u062e\u062a\u0635\u0627\u0635\u06cc \u062e\u0627\u0646\u0648\u0627\u062f\u0647",
+                    "\u0632\u0645\u0627\u0646\u200c\u0628\u0646\u062f\u06cc \u0627\u0648\u0644\u0648\u06cc\u062a\u200c\u062f\u0627\u0631",
+                    "\u0627\u0631\u0632\u06cc\u0627\u0628\u06cc \u0633\u0647\u200c\u0645\u0627\u0647\u0647"
                 ]
             }
         }
     },
     "contact": {
-        "badge": "Get in Touch",
-        "title1": "Start Your",
-        "titleHighlight": "Free Trial",
-        "description": "Book your free 30-minute trial class today. Our team will match you with the perfect teacher for your level and schedule.",
-        "whatsapp": "WhatsApp",
-        "email": "Email",
-        "available": "Available",
-        "hours": "Sat\u2013Thu, 8AM\u201310PM (GMT+3)",
+        "badge": "\u062a\u0645\u0627\u0633 \u0628\u06af\u06cc\u0631\u06cc\u062f",
+        "title1": "\u0622\u0632\u0645\u0627\u06cc\u0634",
+        "titleHighlight": "\u0631\u0627\u06cc\u06af\u0627\u0646 \u062e\u0648\u062f \u0631\u0627 \u0634\u0631\u0648\u0639 \u06a9\u0646\u06cc\u062f",
+        "description": "\u0627\u0645\u0631\u0648\u0632 \u06a9\u0644\u0627\u0633 \u0622\u0632\u0645\u0627\u06cc\u0634\u06cc \u0631\u0627\u06cc\u06af\u0627\u0646 \u06f3\u06f0 \u062f\u0642\u06cc\u0642\u0647\u200c\u0627\u06cc \u062e\u0648\u062f \u0631\u0627 \u0631\u0632\u0631\u0648 \u06a9\u0646\u06cc\u062f. \u062a\u06cc\u0645 \u0645\u0627 \u0645\u0639\u0644\u0645 \u0645\u0646\u0627\u0633\u0628 \u0631\u0627 \u0628\u0631\u0627\u06cc \u0633\u0637\u062d \u0648 \u0628\u0631\u0646\u0627\u0645\u0647 \u0634\u0645\u0627 \u067e\u06cc\u062f\u0627 \u062e\u0648\u0627\u0647\u062f \u06a9\u0631\u062f.",
+        "whatsapp": "\u0648\u0627\u062a\u0633\u0627\u067e",
+        "email": "\u0627\u06cc\u0645\u06cc\u0644",
+        "available": "\u062f\u0631 \u062f\u0633\u062a\u0631\u0633",
+        "hours": "\u0634\u0646\u0628\u0647\u2013\u067e\u0646\u062c\u0634\u0646\u0628\u0647\u060c \u06f8 \u0635\u0628\u062d\u2013\u06f1\u06f0 \u0634\u0628 (GMT+3)",
         "bismillah": "\u0628\u0650\u0633\u0652\u0645\u0650 \u0627\u0644\u0644\u064e\u0651\u0647\u0650",
-        "bismillahTranslation": "In the Name of Allah",
+        "bismillahTranslation": "\u0628\u0647 \u0646\u0627\u0645 \u062e\u062f\u0627\u0648\u0646\u062f",
         "form": {
-            "title": "Enroll Today",
-            "subtitle": "Fill in your details and we'll be in touch within 24 hours.",
-            "fullName": "Full Name",
-            "namePlaceholder": "Your full name",
-            "email": "Email Address",
+            "title": "\u0627\u0645\u0631\u0648\u0632 \u062b\u0628\u062a\u200c\u0646\u0627\u0645 \u06a9\u0646\u06cc\u062f",
+            "subtitle": "\u062c\u0632\u0626\u06cc\u0627\u062a \u062e\u0648\u062f \u0631\u0627 \u067e\u0631 \u06a9\u0646\u06cc\u062f \u0648 \u0645\u0627 \u0638\u0631\u0641 \u06f2\u06f4 \u0633\u0627\u0639\u062a \u0628\u0627 \u0634\u0645\u0627 \u062a\u0645\u0627\u0633 \u062e\u0648\u0627\u0647\u06cc\u0645 \u06af\u0631\u0641\u062a.",
+            "fullName": "\u0646\u0627\u0645 \u06a9\u0627\u0645\u0644",
+            "namePlaceholder": "\u0646\u0627\u0645 \u06a9\u0627\u0645\u0644 \u0634\u0645\u0627",
+            "email": "\u0622\u062f\u0631\u0633 \u0627\u06cc\u0645\u06cc\u0644",
             "emailPlaceholder": "your@email.com",
-            "phone": "WhatsApp / Phone",
+            "phone": "\u0648\u0627\u062a\u0633\u0627\u067e / \u062a\u0644\u0641\u0646",
             "phonePlaceholder": "+1 (555) 000-0000",
-            "program": "Program Interest",
-            "programDefault": "Select a program",
-            "message": "Message (Optional)",
-            "messagePlaceholder": "Tell us about your current level, preferred schedule, or any questions...",
-            "submit": "Book Free Trial Class",
-            "privacy": "By submitting, you agree to our",
-            "privacyLink": "Privacy Policy",
-            "privacyEnd": ". We never share your data.",
+            "program": "\u0639\u0644\u0627\u0642\u0647 \u0628\u0647 \u0628\u0631\u0646\u0627\u0645\u0647",
+            "programDefault": "\u06cc\u06a9 \u0628\u0631\u0646\u0627\u0645\u0647 \u0627\u0646\u062a\u062e\u0627\u0628 \u06a9\u0646\u06cc\u062f",
+            "message": "\u067e\u06cc\u0627\u0645 (\u0627\u062e\u062a\u06cc\u0627\u0631\u06cc)",
+            "messagePlaceholder": "\u062f\u0631\u0628\u0627\u0631\u0647 \u0633\u0637\u062d \u0641\u0639\u0644\u06cc\u060c \u0628\u0631\u0646\u0627\u0645\u0647 \u062a\u0631\u062c\u06cc\u062d\u06cc \u06cc\u0627 \u0647\u0631 \u0633\u0624\u0627\u0644\u06cc \u0628\u0647 \u0645\u0627 \u0628\u06af\u0648\u06cc\u06cc\u062f...",
+            "submit": "\u0631\u0632\u0631\u0648 \u06a9\u0644\u0627\u0633 \u0622\u0632\u0645\u0627\u06cc\u0634\u06cc \u0631\u0627\u06cc\u06af\u0627\u0646",
+            "privacy": "\u0628\u0627 \u0627\u0631\u0633\u0627\u0644\u060c \u0634\u0645\u0627 \u0628\u0627",
+            "privacyLink": "\u0633\u06cc\u0627\u0633\u062a \u062d\u0631\u06cc\u0645 \u062e\u0635\u0648\u0635\u06cc",
+            "privacyEnd": " \u0645\u0627 \u0645\u0648\u0627\u0641\u0642\u062a \u0645\u06cc\u200c\u06a9\u0646\u06cc\u062f. \u0645\u0627 \u0647\u0631\u06af\u0632 \u0627\u0637\u0644\u0627\u0639\u0627\u062a \u0634\u0645\u0627 \u0631\u0627 \u0628\u0647 \u0627\u0634\u062a\u0631\u0627\u06a9 \u0646\u0645\u06cc\u200c\u06af\u0630\u0627\u0631\u06cc\u0645.",
             "programs": {
-                "recitation": "Quran Recitation",
-                "tajweed": "Tajweed Rules",
-                "hifz": "Hifz Program",
-                "islamic": "Islamic Studies",
-                "arabic": "Arabic Language"
+                "recitation": "\u062a\u0644\u0627\u0648\u062a \u0642\u0631\u0622\u0646",
+                "tajweed": "\u0642\u0648\u0627\u0639\u062f \u062a\u062c\u0648\u06cc\u062f",
+                "hifz": "\u0628\u0631\u0646\u0627\u0645\u0647 \u062d\u0641\u0638",
+                "islamic": "\u0645\u0637\u0627\u0644\u0639\u0627\u062a \u0627\u0633\u0644\u0627\u0645\u06cc",
+                "arabic": "\u0632\u0628\u0627\u0646 \u0639\u0631\u0628\u06cc"
             }
         }
     },
     "footer": {
-        "copyright": "\u00a9 2026 Weldan Quran Academy. All rights reserved.",
-        "tagline": "Connecting hearts to the Quran worldwide.",
-        "privacy": "Privacy",
-        "terms": "Terms"
+        "copyright": "\u00a9 \u06f2\u06f0\u06f2\u06f6 \u0622\u06a9\u0627\u062f\u0645\u06cc \u0642\u0631\u0622\u0646 \u0648\u0644\u062f\u0627\u0646. \u062a\u0645\u0627\u0645\u06cc \u062d\u0642\u0648\u0642 \u0645\u062d\u0641\u0648\u0638 \u0627\u0633\u062a.",
+        "tagline": "\u0627\u062a\u0635\u0627\u0644 \u0642\u0644\u0628\u200c\u0647\u0627 \u0628\u0647 \u0642\u0631\u0622\u0646 \u062f\u0631 \u0633\u0631\u0627\u0633\u0631 \u062c\u0647\u0627\u0646.",
+        "privacy": "\u062d\u0631\u06cc\u0645 \u062e\u0635\u0648\u0635\u06cc",
+        "terms": "\u0634\u0631\u0627\u06cc\u0637"
     },
     "whatsapp": {
-        "chat": "Chat with us",
-        "reply": "Usually replies in minutes"
+        "chat": "\u0628\u0627 \u0645\u0627 \u0686\u062a \u06a9\u0646\u06cc\u062f",
+        "reply": "\u0645\u0639\u0645\u0648\u0644\u0627\u064b \u062f\u0631 \u0686\u0646\u062f \u062f\u0642\u06cc\u0642\u0647 \u067e\u0627\u0633\u062e \u0645\u06cc\u200c\u062f\u0647\u062f"
     }
 }
