@@ -100,14 +100,13 @@ export default function HeroSection({ t }: HeroSectionProps) {
           </div>
 
           {/* Heading */}
-          <h1 className="font-display text-hero-xl text-foreground leading-none">
+          <h1 className="font-display text-5xl md:text-6xl lg:text-7xl text-foreground leading-none">
             {hero.title1}{' '}
             <span className="text-gradient-gold">{hero.titleHighlight}</span>
-            <br />
             {hero.title2}
             <br />
             <span className="text-primary-foreground opacity-60">{hero.title3}</span>{' '}
-            {hero.title4}
+            {hero.title3}
           </h1>
 
           <p className="text-muted-foreground text-sm sm:text-base md:text-lg max-w-md leading-relaxed">
