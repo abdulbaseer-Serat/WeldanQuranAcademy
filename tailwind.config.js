@@ -39,7 +39,7 @@ module.exports = {
         mono: ['ui-monospace', 'SFMono-Regular', 'Menlo', 'Monaco', 'Consolas', 'monospace'],
       },
       borderRadius: {
-        xl: 'calc(var(--radius) + 8px)',
+        xl: 'calc(var(--radius) + 4px)',
         '2xl': 'calc(var(--radius) + 16px)',
         lg: 'calc(var(--radius) + 4px)',
       },
