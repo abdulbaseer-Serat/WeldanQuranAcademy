@@ -91,9 +91,9 @@
         "viewAll": "View All Teachers",
         "note": "Our academy has 28 qualified teachers ready to guide your journey.",
         "items": {
-            "Muhibullah": {
-                "name": "Qari_Muhibullah Mamond",
-                "role": "Director and Lead Quran Instructor",
+            "omar": {
+                "name": "Sheikh Omar Al-Farouqi",
+                "role": "Lead Quran Instructor",
                 "specialty": "Tajweed & Hifz",
                 "university": "Al-Azhar University, Cairo",
                 "students": "150+",
